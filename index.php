@@ -187,7 +187,7 @@
 
           <div class="site-info">
             <h1 class="site-name"><a href="">Presenter : Shahid</a></h1>
-            <p class="site-description">End-To-End CI/CD Automation Using Azure DevOps Phase 1</p>
+            <p class="site-description">End-To-End CI/CD Automation Using Azure DevOps Phase-1</p>
             <h3 class="site-name"><a href="">Veritread Azure DevOps Implementation DEMO</a></h3>
           </div>
 
